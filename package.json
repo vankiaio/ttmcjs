@@ -1,7 +1,7 @@
 {
-  "name": "vktjs",
+  "name": "ttmcjs",
   "version": "20.0.0-beta3",
-  "description": "Talk to vkt API",
+  "description": "Talk to ttmc API",
   "main": "dist/index.js",
   "scripts": {
     "prepare": "npm run build",
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "vktjs-ecc": "^4.0.1",
+    "ttmcjs-ecc": "^4.0.1",
     "text-encoding": "^0.6.4"
   },
   "devDependencies": {
